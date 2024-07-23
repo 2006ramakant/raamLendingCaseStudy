@@ -10,7 +10,7 @@
 
 ### Project Information
 
-> The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
+> The project uses the lending club data set to predict whether a loan will be defaulted or not.
 
 ### Project Background
 
